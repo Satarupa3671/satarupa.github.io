@@ -28,7 +28,6 @@ Preprints
 
 + Bhattacharjee, S. and Müller, H. G. (2023-). Mixed-effects modeling of longitudinal random objects. ArXiv preprint, Under review for JASA
 <a href="/assets/pdf/ORE.pdf" target="_blank">(pdf)</a>. <br/>
-+ Bhattacharjee, S., Li, B., Xue, L. (2023-). Nonlinear global Fréchet regression for random objects via weak conditional expectation. ArXiv preprint, Under review for Annals of Statistics <a href="/assets/pdf/draft0.pdf" target="_blank">(pdf)</a>. 
 
 
 Ongoing work
