@@ -209,7 +209,7 @@ defaults:
       path: ""
       type: about
     values:
-      layout: single
+      layout: splash
       author_profile: true
       share: true
       related: false
