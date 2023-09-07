@@ -11,7 +11,7 @@ classes: wide
 author_profile: true  
 ---
 
-View my full CV <a href="/assets/pdf/CV.pdf" target="_blank"></a>.
+View my full CV <a href="/assets/pdf/CV.pdf" target="_blank">CV</a>.
 ---------------
 
 
