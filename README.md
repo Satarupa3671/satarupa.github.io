@@ -1,2 +1,0 @@
-# satarupa.io
-Personal Website
