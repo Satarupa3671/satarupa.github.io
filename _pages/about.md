@@ -3,7 +3,7 @@ permalink: /about/
 layout: single
 title: "About"
 header:
-  overlay_image: /assets/images/about.jpg
+  overlay_image: /assets/images/kolkata.jpg
   overlay_filter: 0.5
 show_overlay_title: true
 share: false
@@ -19,9 +19,9 @@ I received my PhD in Statistics at UC Davis while working with [Prof. Hans-Georg
 My primary research centers around analyzing **functional and non-Euclidean data** situated in general metric spaces, which we refer to as *random objects*,  with examples in brain imaging data, networks, distribution valued data, and high-dimensional genetics data. Here are links to my [Google Scholar](https://scholar.google.com/citations?user=A-sLpqsAAAAJ&hl=en&authuser=1) and my <a href="/assets/pdf/CV.pdf" target="_blank">CV</a> and <a href="/assets/pdf/Research_Statement.pdf" target="_blank">full Research Statement</a>.<br>
 
 
-Beyond developing methodology, I like teaching and mentoring young minds to kindle and foster statistical thinking and logical reasoning skills. I like finding intuitive and creative ways of conveying results and breaking through the "language barrier" between statisticians and other scientists.<br>
+Beyond developing methodology, I like teaching and mentoring young minds to kindle and foster statistical thinking and logical reasoning skills. <br>
 
 
-In my spare time, I enjoy reading.
+In my spare time, I enjoy reading, music, and watching soccer. I am a big fan of the Harry Potter books.
 
 If you want to get in touch, you can contact me by [email](mailto:sfb5992@psu.edu). 

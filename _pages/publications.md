@@ -3,7 +3,7 @@ permalink: /publications/
 layout: single
 title: "Publications"
 header:
-  overlay_image: /assets/images/research.jpg
+  overlay_image: /assets/images/GoldenGateBridge-001.jpg
   overlay_filter: 0.5
 show_overlay_title: true
 share: false

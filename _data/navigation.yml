@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research Interest"
+  - title: "Research"
     url: /research/
   - title: "CV"
     url: /cv/
@@ -9,4 +9,6 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+ - title: "Misc."
+    url: /misc/
     

@@ -3,7 +3,7 @@ permalink: /cv/
 layout: single
 title: "Curriculum Vitae"
 header:
-  overlay_image: /assets/images/cv.jpg
+  overlay_image: /assets/images/Spiti-Valley11.jpg
   overlay_filter: 0.5
 show_overlay_title: true
 share: false
