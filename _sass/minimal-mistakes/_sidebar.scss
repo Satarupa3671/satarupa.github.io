@@ -53,12 +53,12 @@
   h5,
   h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $serif-narrow;
   }
 
   p,
   li {
-    font-family: $sans-serif;
+    font-family: $serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -119,8 +119,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 110px;
-  //height: 36px;
+  width: 500px;
+
 
   @include breakpoint($large) {
     display: block;
@@ -129,7 +129,6 @@
   }
 
   img {
-    max-width: 110px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -168,7 +167,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $serif;
   font-size: $type-size-5;
 }
 
@@ -185,7 +184,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: $serif;
   z-index: 10;
   position: relative;
   cursor: pointer;
