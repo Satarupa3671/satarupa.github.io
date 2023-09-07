@@ -65,7 +65,7 @@ social:
 # Site Author
 author: 
   name: "Satarupa Bhattacharjee"
-  avatar:
+  avatar: /assets/images/logo.png
   bio: "Postdoctoral Scholar in Statistics at Penn State University"
   location: "State College, PA, USA"
   links:
