@@ -1,10 +1,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research"
+  - title: "Research Interest"
     url: /research/
   - title: "CV"
     url: /cv/
-  - title: "Awards"
-    url: /awards/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
     
