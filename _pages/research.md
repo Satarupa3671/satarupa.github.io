@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 layout: single
-title: "Research Interests"
+title: "Research"
 header:
   overlay_image: /assets/images/research.jpg
   overlay_filter: 0.5
