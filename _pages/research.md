@@ -21,4 +21,4 @@ developing broadly applicable statistical methods and inference for analyzing no
 + **Reproducing kernel Hilbert spaces**- developing abstract mathematical and computational methods for infinite dimensional data in connection with metric geometry and sufficient dimension reduction.
 + **Nonparametric statistics**, analysis of high-dimensional and geometrical data.
 + **Causal inference for distributional and object data**- developing methodological work for object data analysis with application in the fields of bio-sciences.
-+ **Theoretical Machine Learning**- contextual bandit problems.<br>
++ **Theoretical machine learning**- contextual bandit problems.<br>
