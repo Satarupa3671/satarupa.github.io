@@ -3,7 +3,7 @@ permalink: /teaching/
 layout: single
 title: "Teaching"
 header:
-  overlay_image: /assets/images/3Falls_Niagara.jpg
+  overlay_image: /assets/images/teaching.jpg
   overlay_filter: 0.5
 show_overlay_title: true
 share: false

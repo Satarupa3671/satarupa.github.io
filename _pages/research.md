@@ -3,7 +3,7 @@ permalink: /research/
 layout: single
 title: "Research Interests"
 header:
-  overlay_image: /assets/images/State-college.jpg
+  overlay_image: /assets/images/research.jpg
   overlay_filter: 0.5
 show_overlay_title: true
 share: false
