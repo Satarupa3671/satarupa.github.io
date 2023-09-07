@@ -23,7 +23,7 @@ twitter_username:
 github_username: Satarupa3671
 linkedin_username:
 
-logo: 
+logo: /assets/images/logo.png
 search: false #, false (default)
 logo: /assets/images/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 excerpt: "A nice background picture"
