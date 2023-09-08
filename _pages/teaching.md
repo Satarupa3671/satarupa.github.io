@@ -51,4 +51,4 @@ Advised by Dr. Debashis Paul </li>
 </ul> <br/>
 
 
-Here are my <a href="/assets/pdf/Teaching_Statement.pdf" target="_blank">Teaching Statement</a> and <a href="/assets/pdf/Diversity_Statement.pdf" target="_blank">full Diversity Statement</a>.<br>
+Here are my <a href="/assets/pdf/Teaching_Statement.pdf" target="_blank">Teaching Statement</a> and <a href="/assets/pdf/Diversity_Statement.pdf" target="_blank">Diversity Statement</a>.<br>
