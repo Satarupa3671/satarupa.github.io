@@ -48,4 +48,7 @@ __Mentoring__<br/>
 Advised by Dr. Hans-Georg Müller </li><br/>
 <li> Thesis: "Inference on the dynamics of COVID-19 in India for the state of Kerala" (2020--2021)<br/>
 Advised by Dr. Debashis Paul </li>
-</ul>
+</ul> <br/>
+
+
+Here are my <a href="/assets/pdf/Teaching_Statement.pdf" target="_blank">Teaching Statement</a> and <a href="/assets/pdf/Diversity_Statement.pdf" target="_blank">full Diversity Statement</a>.<br>
