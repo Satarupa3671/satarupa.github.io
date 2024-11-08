@@ -14,7 +14,7 @@ author_profile: true
 
 Published/ Accepted
 ---------------
-
++ Bhattacharjee, S., Li, B., Xue, L. (2024). Nonlinear global Fréchet regression for random objects via weak conditional expectation. _Accepted, Annals of Statistics_ <a href="/assets/pdf/draft2.pdf" target="_blank">(pdf)</a>. <br/>
 + Bhattacharjee, S., and Müller, H. G. (2023). Single index Fréchet regression. _Accepted, Annals of Statistics_ <a href="/assets/pdf/IFR.pdf" target="_blank">(pdf)</a>. <br/>
 + Bhattacharjee, S., and Müller, H. G. (2022). Concurrent object regression. _Electronic Journal of Statistics, 16(2), 4031-4089_ <a href="/assets/pdf/CORE.pdf" target="_blank">(pdf)</a>. <br/>
 + Dubey, P., Chen, Y., Gajardo, Á ., Bhattacharjee, S., Carroll, C., Zhou, Y.,  and Müller, H. G. (2022). Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States. _Journal of Mathematical Analysis and Applications, 514(2), 125677_ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
@@ -25,9 +25,8 @@ Published/ Accepted
 Preprints
 ---------------
 
-+ Bhattacharjee, S. and Müller, H. G. (2023-). Mixed-effects modeling of longitudinal random objects. _ArXiv preprint, Under major revision for JASA_
++ Bhattacharjee, S. and Müller, H. G. (2023-). Mixed-effects modeling of longitudinal random objects. _ArXiv preprint, Under minor revision for JASA_
 <a href="/assets/pdf/ORE.pdf" target="_blank">(pdf)</a>. <br/>
-+ Bhattacharjee, S., Li, B., Xue, L. (2023-). Nonlinear global Fréchet regression for random objects via weak conditional expectation. _ArXiv preprint, Under review for Annals of Statistics_ <a href="/assets/pdf/draft2.pdf" target="_blank">(pdf)</a>.<br/> 
 
 Ongoing work
 ---------------
@@ -35,7 +34,7 @@ Ongoing work
 + Bhattacharjee, S., Li, B., Xue, L. (2023-). Causal inference on distributional data with continuous treatments.
 + Arya, S., Bhattacharjee, S., and Sriperambudur, B. (2023-). Index models for contextual bandit problems.
 + Zhang, Q. and Bhattacharjee, S. (2023-). Geodesic set distribution regression.
-
++ Bhattacharjee, S. and Bandyopadhyay, D. (2024–). Test of homogeneity and independence of distributions of DTI data.
 
 Software
 ---------------

@@ -17,6 +17,9 @@ Teaching
 __Instructor__
 
 <ul>
+<li> STA 4321/5325 (Introduction to Probability/Fundamentals of Probability - 2024 <br/>
+Department of Statistics, University of Florida </li> <br/>
+
 <li> STA 418 (Introduction to Probability and Stochastic Processes) - 2023<br/>
 Department of Statistics, Pennsylvania State University </li> <br/>
 

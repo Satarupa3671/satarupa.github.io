@@ -17,8 +17,12 @@ View my full <a href="/assets/pdf/CV_Satarupa.pdf" target="_blank">CV</a>.
 
 Employment
 ---------------
+__2024 - today__<br/>
+Assistant Professor<br/>
+Department of Statistics, University of Florida
 
-__2022 - today__<br/>
+
+__2022 - 2024__<br/>
 Postdoctoral Scholar<br/>
 Department of Statistics, Pennsylvania State University
 
@@ -48,6 +52,7 @@ High School Diploma, RKSM Sister Nivedita Girls' School, Kolkata, India
 
 Honors and Awards
 ---------------
+__IMS New Researchers Travel Award - 2024__<br/>
 __Peter Hall Graduate Research Award, Department of Statistics, UC Davis - 2022__<br/>
 Given to one advanced Ph.D. student to recognize overall excellence in statistical research during their doctoral degree. <br/>
 
@@ -89,12 +94,17 @@ Given to students of IIT Kanpur having a CPI of 9.0 and above. <br/>
 Referee Services
 ---------------
 <ul>
-<li> Journal of American Statistical Association (JASA) (3) </li>
-<li> Annals of Statistics (2) </li>
-<li> Electronic Journal of Statistics (2) </li>
+<li> Journal of American Statistical Association (JASA) </li>
+</li> Journal of Machine Learning Research (JMLR) </li>
+<li> Annals of Statistics </li>
+<li> Electronic Journal of Statistics </li>
 <li> Biometrika </li>
 <li> Scandinavian Journal of Statistics </li>
+<li> Statistics in Medicine </li>
+<li> Bernoulli </li>
+<li> Annals of Applied Statistics </li>
 <li> Sankhya, Series  A </li>
+<li> Scandinavian Journal of Statistics <li>
 <li> Scientific American </li>
 </ul>
 
@@ -103,7 +113,8 @@ Referee Services
 Academic Participation
 ---------------
 <ul>
-<li> Postdoctoral representative for Climate and Diversity Committee, Department of Statistics, Penn State, 2023 -- present  </li>
+<li> Organizing committee member for the IMS New Researcher’s Group, 2024 -- present <li>
+<li> Postdoctoral representative for Climate and Diversity Committee, Department of Statistics, Penn State, 2023 -- 2024  </li>
 <li> Student representative for Educational Policy and Curriculum Committee, Department of Statistics, UC Davis, 2020-- 2022  </li>
 <li> Literacy and teaching campaign for underprivileged children at the village Paikhala, West Bengal, organized by National Service Scheme, India, 2015-- 2017 </li>
 </ul>

@@ -23,4 +23,4 @@ developing broadly applicable statistical methods and inference for analyzing no
 + **Causal inference for distributional and object data**- developing methodological work for object data analysis with application in the fields of bio-sciences.
 + **Theoretical machine learning**- contextual bandit problems.<br>
 
-Here is my <a href="/assets/pdf/Research_Satarupa.pdf" target="_blank">full Research Statement</a>.<br>
+[//]: <> Here is my <a href="/assets/pdf/Research_Satarupa.pdf" target="_blank">full Research Statement</a>.<br>
