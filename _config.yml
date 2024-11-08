@@ -66,7 +66,7 @@ social:
 author: 
   name: "Satarupa Bhattacharjee"
   avatar: /assets/images/logo.png
-  bio: "Assistant Professor in Statistics at the University of Florida"
+  bio: "Assistant Professor, Department of Statistics at the University of Florida"
   location: "Gainesville, FL, USA"
   links:
     - label: "Github"
@@ -77,7 +77,7 @@ author:
       url: "www.linkedin.com/in/satarupa-bhattacharjee-094b34a3"
     - label: "University page"
       icon: "fas fa-fw fa-link"
-      url: "https://science.psu.edu/stat/people/sfb5992"
+      url: "https://stat.ufl.edu/people/faculty/"
     - label: "Google Scholar"
       icon: "fab fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=A-sLpqsAAAAJ&hl=en&authuser=1"
