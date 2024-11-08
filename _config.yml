@@ -66,12 +66,12 @@ social:
 author: 
   name: "Satarupa Bhattacharjee"
   avatar: /assets/images/logo.png
-  bio: "Postdoctoral Scholar in Statistics at Penn State University"
-  location: "State College, PA, USA"
+  bio: "Assistant Professor in Statistics at the University of Florida"
+  location: "Gainesville, FL, USA"
   links:
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Satarupa3671"
+      url: "https://github.com/satarupa3671"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "www.linkedin.com/in/satarupa-bhattacharjee-094b34a3"
