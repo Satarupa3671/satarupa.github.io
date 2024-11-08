@@ -95,7 +95,7 @@ Referee Services
 ---------------
 <ul>
 <li> Journal of American Statistical Association (JASA) </li>
-</li> Journal of Machine Learning Research (JMLR) </li>
+<li> Journal of Machine Learning Research (JMLR) </li>
 <li> Annals of Statistics </li>
 <li> Electronic Journal of Statistics </li>
 <li> Biometrika </li>
