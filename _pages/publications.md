@@ -15,7 +15,7 @@ author_profile: true
 Published/ Accepted
 ---------------
 + Bhattacharjee, S., Li, B., Xue, L. (2024). Nonlinear global Fréchet regression for random objects via weak conditional expectation. _Accepted, Annals of Statistics_ <a href="/assets/pdf/draft2.pdf" target="_blank">(pdf)</a>. <br/>
-+ Bhattacharjee, S., and Müller, H. G. (2023). Single index Fréchet regression. _Accepted, Annals of Statistics_ <a href="/assets/pdf/IFR.pdf" target="_blank">(pdf)</a>. <br/>
++ Bhattacharjee, S., and Müller, H. G. (2023). Single index Fréchet regression. _Annals of Statistics,51(4), 1770-1798_ <a href="/assets/pdf/IFR.pdf" target="_blank">(pdf)</a>. <br/>
 + Bhattacharjee, S., and Müller, H. G. (2022). Concurrent object regression. _Electronic Journal of Statistics, 16(2), 4031-4089_ <a href="/assets/pdf/CORE.pdf" target="_blank">(pdf)</a>. <br/>
 + Dubey, P., Chen, Y., Gajardo, Á ., Bhattacharjee, S., Carroll, C., Zhou, Y.,  and Müller, H. G. (2022). Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States. _Journal of Mathematical Analysis and Applications, 514(2), 125677_ <a href="/assets/pdf/covid_delay.pdf" target="_blank">(pdf)</a>. <br/>
 + Bhattacharjee, S., Liao S., Paul, D., and Chaudhuri, S. (2021). Inference on the dynamics of COVID-19 in the USA. _Nature- Scientific Reports, 12(1), 1-15_ <a href="/assets/pdf/covid_inference.pdf" target="_blank">(pdf)</a>. <br/>
